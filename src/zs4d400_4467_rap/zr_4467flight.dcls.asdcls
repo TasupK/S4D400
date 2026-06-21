@@ -1,0 +1,6 @@
+@EndUserText.label: 'ZR_4467FLIGHT'
+@MappingRole: true
+define role ZR_4467FLIGHT {
+  grant select on ZR_4467FLIGHT
+  where TRUE;
+}
